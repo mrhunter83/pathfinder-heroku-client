@@ -1,2 +1,2 @@
 # pathfinder-heroku-client
-client code / files for heroku deployment
+client side code / files for heroku deployment
